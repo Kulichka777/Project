@@ -18,7 +18,7 @@ BRUSH_SIZE = 5
 ERASER_SIZE = 10
 current_color = BLACK
 
-# Інструменти
+
 BRUSH = 'brush'
 ERASER = 'eraser'
 FILL = 'fill'
